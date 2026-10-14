@@ -19,7 +19,7 @@ Ensure that you have successfully installed and configured Scurid Server and App
 
 ## Add a Device User
 
-# Add a Device User with Username and Password
+### Add a Device User with Username and Password
 1. Open Scurid App and login with your passphrase created during the onboarding process. ![onboarding process](../img/v23-0-2/login.png)
 2. Click on `Users`. ![onboarding process](../img/v26-1-2/devusertwo.png)
 3. Click on `Add User` button, a pop up box will appear.
@@ -28,7 +28,7 @@ Ensure that you have successfully installed and configured Scurid Server and App
 6. A confirmation message will appear and the user is enrolled. ![device user registration](../img/v26-1-2/devuserfour.png)
 7. The newly added user can be seen in the list. ![device user registration](../img/v26-1-2/devuserfive.png)
 
-# Add a Device User with Biometrics
+### Add a Device User with Biometrics
 1. Open Scurid App and login with your passphrase created during the onboarding process. ![device user registration](../img/v23-0-2/login.png)
 2. Click on `Users`. ![device user registration](../img/v26-1-2/devusertwo.png)
 3. Click on `Add User` button, a pop up box will appear.
